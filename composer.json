@@ -4,7 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/container-trait": "dev-main"
+        "potter/container-trait": "dev-main",
+        "potter/container-aware-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
