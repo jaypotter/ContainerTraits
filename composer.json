@@ -7,6 +7,11 @@
         "potter/container-trait": "dev-main",
         "potter/container-aware-trait": "dev-main"
     },
+    "suggest": {
+        "potter/container": "dev-main",
+        "potter/traits": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
