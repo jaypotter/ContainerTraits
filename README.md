@@ -1,5 +1,5 @@
 # ContainerTraits
-PHP Container Trait Collection
+PHP Collection of Container Traits
 
 `composer require potter/container-traits`
 

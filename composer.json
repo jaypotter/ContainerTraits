@@ -1,6 +1,6 @@
 {
     "name": "potter/container-traits",
-    "description": "PHP Container Trait Collection",
+    "description": "PHP Collection of Container Traits",
     "type": "metapackage",
     "require": {
         "php": "^8.3",
